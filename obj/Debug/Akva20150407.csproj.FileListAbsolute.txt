@@ -1,0 +1,38 @@
+C:\progge\Apper\Akva20150407\Akva20150407\bin\Debug\Akva20150407.dll
+C:\progge\Apper\Akva20150407\Akva20150407\bin\Debug\Akva20150407.pdb
+C:\progge\Apper\Akva20150407\Akva20150407\bin\Debug\Akva20150407.dll.mdb
+C:\progge\Apper\Akva20150407\Akva20150407\bin\Debug\Akva20150407.Akva20150407.apk
+C:\progge\Apper\Akva20150407\Akva20150407\bin\Debug\Akva20150407.Akva20150407-Signed.apk
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\Akva20150407.dll
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\Akva20150407.pdb
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\android\bin\Akva20150407.Akva20150407.apk
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\res\layout\main.xml
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\res\values\strings.xml
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\res\drawable-hdpi\icon.png
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\res\drawable-mdpi\icon.png
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\res\drawable-xhdpi\icon.png
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\R.cs.flag
+C:\progge\Apper\Akva20150407\Akva20150407\obj\Debug\uploadflags.txt
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\bin\Debug\Akva20150407.dll
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\bin\Debug\Akva20150407.pdb
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\bin\Debug\Akva20150407.Akva20150407.apk
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\bin\Debug\Akva20150407.Akva20150407-Signed.apk
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\res\drawable\monoandroidsplash.png
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\res\values\styles.xml
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\Akva20150407.dll
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\Akva20150407.pdb
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\android\bin\Akva20150407.Akva20150407.apk
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\res\layout\main.xml
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\res\values\strings.xml
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\res\drawable-hdpi\icon.png
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\res\drawable-mdpi\icon.png
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\res\drawable-xhdpi\icon.png
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\R.cs.flag
+C:\App mekking\Akva20150407 - Funker 2015.04.07\Akva20150407\obj\Debug\uploadflags.txt
+C:\App mekking\Akva20150407 - Funker 2015.04.07 - Copy\Akva20150407\obj\Debug\res\drawable\monoandroidsplash.png
+C:\App mekking\Akva20150407 - Funker 2015.04.07 - Copy\Akva20150407\obj\Debug\res\values\styles.xml
+C:\App mekking\Akva20150407 - Funker 2015.04.07 - Copy\Akva20150407\obj\Debug\Akva20150407.dll

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Kommentator.Kommentator1_60212">
+  <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="21" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="Kommentator_160212" android:name="mono.android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="Kommentator 160212" android:name="md55aff6797415fd7c235353b3d30723d49.MainActivity" />
+    <activity android:label="Local Files sample" android:name="md55aff6797415fd7c235353b3d30723d49.Activity1" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Kommentator.Kommentator1_60212.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Kommentator.Kommentator1_60212" />
+      </intent-filter>
+    </receiver>
+    <activity android:icon="@drawable/icon" android:label="Kommentator 160212" android:name="kommentator.kommentator1_60212.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+</manifest>
